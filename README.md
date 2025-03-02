@@ -30,6 +30,14 @@
 # Trang chủ
 <img src="https://raw.githubusercontent.com/khoait03/laravel-react-spa-management/main/public/upload/laravel-react-spa-main.png" alt="Megamart Demo" width="900">
 
+
+# Admin
+<img src="https://raw.githubusercontent.com/khoait03/laravel-react-spa-management/main/public/upload/laravel-react-spa-admin-thong-tin-ca-nhan.png" alt="spa demo" width="900">
+
+<img src="https://raw.githubusercontent.com/khoait03/laravel-react-spa-management/main/public/upload/laravel-react-spa-ql-dich-vu.png" alt="spa demo" width="900">
+
+<img src="https://raw.githubusercontent.com/khoait03/laravel-react-spa-management/main/public/upload/laravel-react-spa-ql-kho.png" alt="spa demo" width="900">
+
 ## Cài đặt
 
 Để cài đặt dự án, bạn cần thực hiện các bước sau:
