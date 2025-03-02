@@ -47,8 +47,9 @@
 2. Cài đặt các phụ thuộc:
 
     ```bash
-    composer install
-
+    composer install 
+   
+    npm install
     ```
 
 3. Tạo file .env:
@@ -86,12 +87,14 @@
 
     ```bash
     php artisan serve
+   
+    npm run dev
 
     ```
 
 9. Truy cập vào đường dẫn để xem ứng dụng:
     ```bash
-    http://127.0.0.1:8000
+    http://localhost:3000/
     ```
 
 Đóng góp
