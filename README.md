@@ -27,6 +27,9 @@
 -   Admin: admin@gmail.com - admin123456
 -   Khách hàng: customer@gmail.com - admin123456
 
+# Trang chủ
+<img src="https://raw.githubusercontent.com/khoait03/laravel-react-spa-management/main/public/upload/laravel-react-spa-main.png" alt="Megamart Demo" width="900">
+
 ## Cài đặt
 
 Để cài đặt dự án, bạn cần thực hiện các bước sau:
